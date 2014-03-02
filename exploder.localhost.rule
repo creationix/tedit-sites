@@ -1,8 +1,4 @@
 {
-  domains: [
-    "exploder.creationix.com"
-    "exploder.localhost"
-  ]
   owner: "tim@creationix.com"
   url: "git@github.com:creationix/exploder.git"
   branch: "master"
