@@ -1,7 +1,11 @@
 {
+  domains: [
+    "exploder.creationix.com"
+    "exploder.localhost"
+  ]
   owner: "tim@creationix.com"
   url: "git@github.com:creationix/exploder.git"
-  ref: "refs/heads/master"
+  branch: "master"
   filters: "filters"
   root: ""
 }
