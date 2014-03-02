@@ -1,0 +1,7 @@
+{
+  owner: "tim@creationix.com"
+  url: "git@github.com:creationix/exploder.git"
+  ref: "refs/heads/master"
+  filters: "filters"
+  root: ""
+}
