@@ -5,5 +5,4 @@
   github: true
   ref: "refs/heads/master"
   filters: "filters"
-  root: ""
 }
