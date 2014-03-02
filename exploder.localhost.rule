@@ -1,8 +1,9 @@
 {
   owner: "tim@creationix.com"
   token: "b0a054ac2a9dd59d1035c0e6390f037d4c9c1e15"
-  repoName: "creationix/exploder"
-  branch: "master"
+  url: "git@github.com:creationix/exploder.git"
+  github: true
+  ref: "refs/heads/master"
   filters: "filters"
   root: ""
 }
