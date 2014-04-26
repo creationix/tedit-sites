@@ -1,6 +1,6 @@
 {
   owner: "tim@creationix.com"
-  token: "b0a054ac2a9dd59d1035c0e6390f037d4c9c1e15"
+  token: "b49625e14231871734fb8870870633d29ef0f2f0"
   url: "git@github.com:creationix/dukluv.git"
   github: true
   ref: "refs/heads/master"
