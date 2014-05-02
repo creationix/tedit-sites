@@ -4,6 +4,5 @@
   url: "git@github.com:luvit/luvit.io.git"
   github: true
   ref: "refs/heads/master"
-  source: "www"
   filters: "filters"
 }
