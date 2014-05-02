@@ -5,4 +5,5 @@
   github: true
   ref: "refs/heads/master"
   source: "game"
+  filters: "filters"
 }
