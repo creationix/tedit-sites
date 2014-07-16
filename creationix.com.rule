@@ -1,7 +1,7 @@
 {
   owner: "tim@creationix.com"
   token: "b49625e14231871734fb8870870633d29ef0f2f0"
-  url: "git@github.com:creationix/learn.creationix.com.git"
+  url: "git@github.com:creationix/creationix.com.git"
   github: true
   ref: "refs/heads/master"
   filters: "filters"
